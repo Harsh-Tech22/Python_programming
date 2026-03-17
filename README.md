@@ -1,19 +1,3 @@
-Python-Programming/
-│
-├── 📁 test/
-│   └── test1.py
-│
-├── 📁 experiments/
-│   ├── experiment1.py
-│   ├── experiment2.py
-│   ├── ...
-│   └── experiment10.py
-│
-├── 📄 chapter1.py
-├── 📄 experiment1.py
-├── 📄 experiment2.py
-├── 📄 01.ipynb
-
 📘 Contents
 
 Basic Commands
