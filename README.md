@@ -1,31 +1,29 @@
-📘 Contents
+<p align="center"> <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Experiments-10-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Focus-Practice-red?style=for-the-badge"> </p>
+📌 About This Repository
 
-Basic Commands
+This repository contains my journey of learning Python Programming 🐍
+It includes basic concepts, chapter-wise practice, experiments, and test files
 
-Introduction to Python syntax
+🚀 What You'll Find Here
 
-Input/Output operations
+✨ Basic Commands
 
-Variables and data types
+Input / Output
 
-Chapter 1
+Variables & Data Types
 
-Fundamental concepts of Python programming
+Basic Syntax
 
-Experiments
+📘 Chapter 1
 
-10 practical Python experiments covering different concepts
+Core Python fundamentals
 
-Test Folder
+🧪 Experiments (10 Total)
 
-Contains test files for practice and checking outputs
+Hands-on practice programs
 
-🚀 Purpose
+Concept-based coding
 
-This repository is created to:
+🧾 Test Files
 
-Practice Python programming
-
-Store experiments and assignments
-
-Build a strong foundation in coding
+Practice and testing scripts
