@@ -4,26 +4,4 @@
 This repository contains my journey of learning Python Programming 🐍
 It includes basic concepts, chapter-wise practice, experiments, and test files
 
-🚀 What You'll Find Here
-
-✨ Basic Commands
-
-Input / Output
-
-Variables & Data Types
-
-Basic Syntax
-
-📘 Chapter 1
-
-Core Python fundamentals
-
-🧪 Experiments (10 Total)
-
-Hands-on practice programs
-
-Concept-based coding
-
-🧾 Test Files
-
-Practice and testing scripts
+Test 1:-https://github.com/Harsh-Tech22/Python_programming/tree/main/Test
