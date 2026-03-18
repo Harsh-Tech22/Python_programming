@@ -4,4 +4,4 @@
 This repository contains my journey of learning Python Programming 🐍
 It includes basic concepts, chapter-wise practice, experiments, and test files
 
-Test 1:-https://github.com/Harsh-Tech22/Python_programming/tree/main/Test
+Test 1:-https://github.com/Harsh-Tech22/Python_programming/blob/main/Test/test1.ipynb
