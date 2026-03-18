@@ -8,12 +8,20 @@ Test 1:-https://github.com/Harsh-Tech22/Python_programming/blob/main/Test/test1.
 
 EXP 1:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp1.ipynb
 
-EXP 2:-
-EXP 3:-
-EXP 4:-
-EXP 5:-
-EXP 6:-
-EXP 7:-
-EXP 8:-
-EXP 9:-
-EXP 10:-
+EXP 2:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp2.ipynb
+
+EXP 3:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp3.ipynb
+
+EXP 4:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp4.ipynb
+
+EXP 5:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp5.ipynb
+
+EXP 6:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp6.ipynb
+
+EXP 7:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp7.ipynb
+
+EXP 8:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp8.ipynb
+
+EXP 9:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp9.ipynb
+
+EXP 10:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp10.ipynb
