@@ -6,7 +6,7 @@ It includes basic concepts, chapter-wise practice, experiments, and test files
 
 Test 1:-https://github.com/Harsh-Tech22/Python_programming/blob/main/Test/test1.ipynb
 
-EXP 1:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp1.py
+EXP 1:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp1.ipynb
 
 EXP 2:-
 EXP 3:-
