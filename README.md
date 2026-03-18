@@ -10,20 +10,20 @@ Test 1:-https://github.com/Harsh-Tech22/Python_programming/blob/main/Test/test1.
 
 - [👉 Experiment 1](./experiments/exp1.ipynb)-Introduction to Python: installation, printing formats, variables, and basic string handling.
 
-EXP 2:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp2.ipynb
+- [👉 Experiment 2](./experiments/exp2.ipynb)-Working with input statements and operators to perform mathematical calculations and basic problem-solving programs.
 
-EXP 3:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp3.ipynb
+- [👉 Experiment 3](./experiments/exp3.ipynb)-Implementation of conditional statements to solve decision-based problems like comparisons, grading, and validations.
 
-EXP 4:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp4.ipynb
+- [👉 Experiment 4](./experiments/exp4.ipynb)-Python loops and conditional statements to solve various mathematical and logical problems, including factorial calculation, prime number identification, and string manipulation.
 
-EXP 5:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp5.ipynb
+- [👉 Experiment 5](./experiments/exp5.ipynb)-string manipulation and set operations in Python.
 
-EXP 6:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp6.ipynb
+- [👉 Experiment 6](./experiments/exp6.ipynb)-This experiment focuses on the application of Python's core data structures—Lists, Tuples, and Dictionaries.
 
-EXP 7:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp7.ipynb
+- [👉 Experiment 7](./experiments/exp7.ipynb)-This experiment covers the implementation of Python functions including recursion for series generation, lambda functions for mathematical calculations, and various argument.
 
-EXP 8:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp8.ipynb
+- [👉 Experiment 8](./experiments/exp8.ipynb)-This experiment covers Python file handling and exception management, demonstrating how to perform CRUD operations on text files, count specific character types.
 
-EXP 9:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp9.ipynb
+- [👉 Experiment 9](./experiments/exp9.ipynb)-This experiment explores Object-Oriented Programming (OOP) in Python, focusing on class and object creation.
 
-EXP 10:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp10.ipynb
+- [👉 Experiment 10](./experiments/exp10.ipynb)-This experiment demonstrates inheritance in Python, showing how to create subclasses that inherit attributes and methods from parent classes to represent hierarchical relationships like employees and programmers.
