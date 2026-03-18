@@ -8,7 +8,7 @@ Test 1:-https://github.com/Harsh-Tech22/Python_programming/blob/main/Test/test1.
 
 ## 🧪 Experiments
 
-- [🧪 Experiment 1 – Python Installation & Basic Commands](./experiments/exp1.ipynb)
+- [👉 Experiment 1 – Introduction to Python: installation, printing formats, variables, and basic string handling](./experiments/exp1.ipynb)
 
 EXP 2:-https://github.com/Harsh-Tech22/Python_programming/blob/main/experiments/exp2.ipynb
 
